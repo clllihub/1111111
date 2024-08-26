@@ -31447,17 +31447,17 @@
         }, {
             color: "#ffffff",
             image: n(2680),
-            slug: "FUGUOPARK",
-            title: "富国公园",
+            slug: "SUISHOUPAI",
+            title: "随手拍",
             information: [{
                 label: "位置",
-                text: "大连"
+                text: "大连 & 北京"
             }, {
                 label: "设备",
-                text: "CANON EOS R6"
+                text: "Google pixel 2xl & iPhone 14 Pro & & CANON EOS R6"
             }, {
                 label: "时间",
-                text: "2023 05 07"
+                text: "2023-2024"
             }],
             content: [{
                 type: "screenshot",
@@ -31493,17 +31493,17 @@
         }, {
             color: "#ff351a",
             image: n(8534),
-            slug: "corvette",
-            title: "Corvette Sound Visualizer",
+            slug: "SEA",
+            title: "海",
             information: [{
-                label: "Company",
-                text: "UNIT9"
+                label: "位置",
+                text: "大连"
             }, {
-                label: "Role",
-                text: "Lead WebGL Developer"
+                label: "设备",
+                text: "CANON EOS R6"
             }, {
-                label: "Client",
-                text: "Commonwealth//McCann + Corvette"
+                label: "时间",
+                text: "2024"
             }],
             content: [{
                 type: "screenshot",
@@ -31534,17 +31534,17 @@
         }, {
             color: "#00e2a5",
             image: n(3965),
-            slug: "nike",
-            title: "Nike City Fast",
+            slug: "JIYISUIPIAN",
+            title: "记忆碎片",
             information: [{
-                label: "Company",
-                text: "UNIT9"
+                label: "位置",
+                text: "北京、大连、营口"
             }, {
-                label: "Role",
-                text: "Lead Game Developer"
+                label: "设备",
+                text: "iPhone12 mini & iPhone 14 Pro"
             }, {
-                label: "Client",
-                text: "JD Sports + Nike"
+                label: "时间",
+                text: "2022-2024"
             }],
             template: "landscape",
             content: [{
@@ -31601,8 +31601,8 @@
         }, {
             color: "#fd5c63",
             image: n(4548),
-            slug: "airbnb",
-            title: "Airbnb Family Trips",
+            slug: "DEMO",
+            title: "DEMO",
             information: [{
                 label: "Company",
                 text: "UNIT9"
