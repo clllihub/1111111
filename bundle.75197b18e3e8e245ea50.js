@@ -31451,13 +31451,13 @@
             title: "随手拍",
             information: [{
                 label: "位置",
-                text: "大连 & 北京"
+                text: "大连  北京"
             }, {
                 label: "设备",
                 text: "Google pixel 2xl & iPhone 14 Pro & & CANON EOS R6"
             }, {
                 label: "时间",
-                text: "2023-2024"
+                text: "2023 2024"
             }],
             content: [{
                 type: "screenshot",
@@ -34151,7 +34151,7 @@
             }),
             a
         }(Oh)
-          , tp = ["/about", "/work", "/project/ZHONGSHANSQUARE", "/project/airbnb", "/project/corvette", "/project/nike", "/project/FUGUOPARK", "/project/PAOTAISHAN", "/project/XIJIANSHAN"]
+          , tp = ["/about", "/work", "/project/ZHONGSHANSQUARE", "/project/DEMO", "/project/SEA", "/project/JIYISUIPIAN", "/project/SUISHOUPAI", "/project/PAOTAISHAN", "/project/XIJIANSHAN"]
           , ep = n(8797)
           , np = n.n(ep);
         function rp(t) {
