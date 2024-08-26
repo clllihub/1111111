@@ -31451,7 +31451,7 @@
             title: "随手拍",
             information: [{
                 label: "位置",
-                text: "大连  北京"
+                text: "大连、北京"
             }, {
                 label: "设备",
                 text: "Google pixel 2xl & iPhone 14 Pro & & CANON EOS R6"
