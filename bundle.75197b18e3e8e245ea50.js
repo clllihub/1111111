@@ -11120,7 +11120,7 @@
                     element: "section",
                     name: "Unsupported"
                 })).element.classList = "unsupported",
-                t.element.innerHTML = '\n      <div class="unsupported__wrapper">\n        <div class="unsupported__content">\n          <img src="lhbzr.svg" class="unsupported__image">\n\n          <h1 class="unsupported__title">\n            Unsupported Browser\n          </h1>\n\n          <p class="unsupported__description">\n            This website experience is optimized for these browsers:<br>\n            Google Chrome 55+, Mozilla Firefox 55+ and Safari 9+.\n          </p>\n\n          <button class="Button unsupported__button">\n            Continue Anyway\n          </button>\n        </div>\n      </div>\n    ',
+                t.element.innerHTML = '\n      <div class="unsupported__wrapper">\n        <div class="unsupported__content">\n          <img src="lhbzr.svg" class="unsupported__image">\n\n          <h1 class="unsupported__title">\n            尚未支持该浏览器\n          </h1>\n\n          <p class="unsupported__description">\n            本站针对如下浏览器进行了优化：<br>\n            Google Chrome  55+，Edge 12+，Safari 9+。\n          </p>\n\n          <button class="Button unsupported__button">\n            仍要继续\n          </button>\n        </div>\n      </div>\n    ',
                 t.elements = {
                     button: t.element.querySelector("Button")
                 },
