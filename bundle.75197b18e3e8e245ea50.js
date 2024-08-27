@@ -6270,7 +6270,7 @@
 }
 ,
 8797: (t, e, n) => {
-    t.exports = "https://cllli.oss-cn-beijing.aliyuncs.com/img/081a40d94af60995dda6381088d40e2c.png"
+    t.exports = "081a40d94af60995dda6381088d40e2c.png"
 }
 ,
 4400: (t, e, n) => {
