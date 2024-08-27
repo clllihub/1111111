@@ -10689,33 +10689,128 @@
                 this.supported = {
                     desktop: [{
                         browser: "chrome",
-                        minversion: 55
+                        minversion: 49
                     }, {
                         browser: "safari",
-                        minversion: 9
+                        minversion: 8
                     }, {
                         browser: "firefox",
-                        minversion: 55
+                        minversion: 50
+                    }, {
+                        browser: "edge",
+                        minversion: 12
+                    }, {
+                        browser: "opera",
+                        minversion: 36
+                    }, {
+                        browser: "ie",
+                        minversion: 10
+                    }, {
+                        browser: "ucbrowser",
+                        minversion: 6
+                    }, {
+                        browser: "qqbrowser",
+                        minversion: 9
+                    }, {
+                        browser: "360 Browser",
+                        minversion: 6
                     }],
                     tablet: [{
                         os: "ios",
-                        minos: "9",
+                        minos: "8",
                         browser: "mobile safari"
                     }, {
                         os: "android",
-                        minos: "5.0",
-                        browser: "chrome"
+                        minos: "4.4",
+                        browser: "chrome",
+                        minversion: 49
+                    }, {
+                        os: "ios",
+                        minos: "8",
+                        browser: "chrome",
+                        minversion: 49
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "firefox",
+                        minversion: 50
+                    }, {
+                        os: "ios",
+                        minos: "8",
+                        browser: "firefox",
+                        minversion: 50
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "samsung browser",
+                        minversion: 5
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "qqbrowser",
+                        minversion: 9
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "ucbrowser",
+                        minversion: 9
                     }],
                     mobile: [{
                         os: "ios",
-                        minos: "9",
+                        minos: "8",
                         browser: "mobile safari"
                     }, {
                         os: "android",
-                        minos: "5.0",
+                        minos: "4.4",
                         browser: "chrome",
-                        minversion: 58
+                        minversion: 49
+                    }, {
+                        os: "ios",
+                        minos: "8",
+                        browser: "chrome",
+                        minversion: 49
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "firefox",
+                        minversion: 50
+                    }, {
+                        os: "ios",
+                        minos: "8",
+                        browser: "firefox",
+                        minversion: 50
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "opera",
+                        minversion: 36
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "samsung browser",
+                        minversion: 5
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "ucbrowser",
+                        minversion: 9
+                    }, {
+                        os: "ios",
+                        minos: "8",
+                        browser: "micromessenger",
+                        minversion: 6.0
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "micromessenger",
+                        minversion: 6.0
+                    }, {
+                        os: "android",
+                        minos: "4.4",
+                        browser: "qqbrowser",
+                        minversion: 9
                     }]
+                    
                 }
             }
             var e, n;
